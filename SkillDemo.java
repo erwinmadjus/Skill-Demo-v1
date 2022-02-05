@@ -5,7 +5,7 @@ public class SkillDemo {
         else if (n < m) {
             return m - n;
         } 
-        else return 0;
+        else return 3;
         }
 }
 }
